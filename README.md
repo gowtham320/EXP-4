@@ -38,14 +38,31 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
-Bridge rectifier with filter:
+![exp4c2](https://github.com/user-attachments/assets/4feac643-7b92-4b9f-abdc-b8ee6660bbe7)
+
+full wave rectifier with filter:
+![exp4c1](https://github.com/user-attachments/assets/0d34ba68-5836-48d1-8709-9263cdbd761c)
 
 TABULAR COLUMN
 Rectifier without filter
+
+![exp4t2](https://github.com/user-attachments/assets/2d814040-3f50-4f75-8ed8-d70282605756)
+
 TABULAR COLUMN
 Rectifier with filter
 
+![exp4t1](https://github.com/user-attachments/assets/f1e84360-0c00-47fc-bb76-3a46d43e113a)
+
 WAVEFORM:
+halfwave rectifier with filter:
+
+
+![exp4w](https://github.com/user-attachments/assets/5d3d587d-394c-4d17-9035-1ea6b0ac06b8)
+
+fullwave rectifier with filter:
+
+
+![exp4w2](https://github.com/user-attachments/assets/4675e681-df62-490e-80fb-f547ca38d3a4)
 
 
 RESULT:
